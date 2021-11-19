@@ -1,19 +1,20 @@
 ---
 title: Internet
-subtitle: 'La red que mantiene conectado a todo el mundo '
+subtitle: >-
+  La red que mantiene conectado a todo el mundo.
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
-date: '2018-01-15'
+  Interior design is “the art or process of designing the interior, often
+  including the exterior, of a room or building”.
+date: '2019-03-27'
 thumb_image: images/internet.jpg
-thumb_image_alt: Red global de internet
+thumb_image_alt: Computadora con codigo de programación y fondo negro
 image: images/internet.jpg
-image_alt: Red global de internet
+image_alt: Computadora con codigo de programación y fondo negro
 seo:
   title: Internet
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore
+    Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
+    primis
   extra:
     - name: 'og:type'
       value: article
@@ -23,8 +24,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore
+        Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
+        primis
       keyName: property
     - name: 'og:image'
       value: images/internet.jpg
@@ -36,18 +37,20 @@ seo:
       value: Internet
     - name: 'twitter:description'
       value: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore
+        Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
+        primis
     - name: 'twitter:image'
       value: images/internet.jpg
       relativeUrl: true
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet dictum sit. Duis ut diam quam nulla porttitor massa id neque. Ut tortor pretium viverra suspendisse potenti nullam. Auctor elit sed vulputate mi sit amet mauris commodo. Dui ut ornare lectus sit amet est placerat. Et malesuada fames ac turpis. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Varius morbi enim nunc faucibus a pellentesque. Erat imperdiet sed euismod nisi porta. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Dui ut ornare lectus sit amet est placerat in. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nullam vehicula ipsum a arcu cursus vitae congue mauris.
+**Donec neque lorem**, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat.
 
-Aenean sed adipiscing diam donec. Id donec ultrices tincidunt arcu non sodales. Orci ac auctor augue mauris augue neque gravida in. Mattis enim ut tellus elementum sagittis vitae et leo duis. Tortor pretium viverra suspendisse potenti nullam. Malesuada proin libero nunc consequat. Commodo viverra maecenas accumsan lacus vel facilisis volutpat est velit. Mauris vitae ultricies leo integer malesuada nunc. Eget magna fermentum iaculis eu. Molestie at elementum eu facilisis. Dui faucibus in ornare quam viverra orci sagittis. Aliquam ultrices sagittis orci a scelerisque purus semper eget.
+Phasellus commodo dolor sit amet, consectetur adipiscing elit. Nam a finibus magna. Sed et pulvinar dolor. Suspendisse vitae iaculis lacus. Proin vulputate, leo eget pulvinar faucibus, felis est condimentum lorem, in rhoncus neque felis ac leo. Duis felis lectus, ultrices id dolor vel, tincidunt tristique nunc. Nullam quis orci magna. Proin eget nunc et dolor hendrerit eleifend. Praesent a vehicula justo, quis convallis lacus. Phasellus porttitor, turpis vel placerat condimentum, urna felis volutpat ligula, et ultricies arcu mi ac nisl. Cras id consectetur ligula, et mollis odio. Aenean erat dui, congue vitae nisi a, aliquet lobortis eros.
 
-Tellus mauris a diam maecenas sed enim. Enim facilisis gravida neque convallis a cras. Sollicitudin nibh sit amet commodo nulla facilisi. Ultrices mi tempus imperdiet nulla malesuada pellentesque. Semper viverra nam libero justo laoreet sit. Vestibulum sed arcu non odio euismod lacinia at quis risus. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Aliquam sem et tortor consequat id porta nibh venenatis cras. Et leo duis ut diam quam nulla porttitor massa id. Sagittis vitae et leo duis ut diam quam. Vitae aliquet nec ullamcorper sit amet. Egestas egestas fringilla phasellus faucibus. Elit pellentesque habitant morbi tristique senectus et netus et. Sagittis purus sit amet volutpat consequat mauris nunc. Commodo odio aenean sed adipiscing. Aliquet eget sit amet tellus cras adipiscing. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Justo eget magna fermentum iaculis eu non.
+> The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
 
-Mi quis hendrerit dolor magna. Vel facilisis volutpat est velit egestas dui id ornare arcu. Sed sed risus pretium quam vulputate. Quam viverra orci sagittis eu volutpat odio facilisis mauris. Enim eu turpis egestas pretium. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Turpis egestas pretium aenean pharetra magna ac. Enim diam vulputate ut pharetra sit amet aliquam id. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum. Amet nulla facilisi morbi tempus. Aliquet bibendum enim facilisis gravida neque convallis. Nulla pharetra diam sit amet. Vitae nunc sed velit dignissim sodales ut.
+Sed augue lorem, porta nec lorem et, luctus egestas nunc. Sed in tellus at enim commodo pharetra. Mauris nisi ipsum, auctor nec justo non, lobortis ullamcorper magna. Pellentesque posuere posuere dolor, quis egestas est ultrices id. Cras at urna lectus. Curabitur in placerat ligula. Phasellus pharetra scelerisque lectus, id sagittis lorem pretium eget. Phasellus commodo nunc ante, nec commodo urna iaculis eu. Pellentesque euismod et ante quis vestibulum. Ut quis sapien nisi. Sed interdum sit amet sem et vestibulum. Maecenas tempor dictum leo, quis rutrum purus tincidunt vitae. Fusce vel turpis risus. Donec congue accumsan tempus. Nunc nec elit magna. Aenean luctus auctor ligula at lacinia.
+
+Donec neque lorem, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.

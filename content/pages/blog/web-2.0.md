@@ -1,15 +1,15 @@
 ---
-title: Understanding Street Photography
+title: Web 2.0
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
 date: '2019-03-10'
-thumb_image: images/8_thumb.jpg
+thumb_image: images/web2.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
-image: images/8.jpg
+image: images/web2.jpg
 image_alt: Hello this way printed on a red metal gate
 seo:
-  title: Understanding Street Photography
+  title: Web 2.0
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt
@@ -18,7 +18,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Understanding Street Photography
+      value: Web 2.0
       keyName: property
     - name: 'og:description'
       value: >-
@@ -26,19 +26,19 @@ seo:
         tempor incididunt
       keyName: property
     - name: 'og:image'
-      value: images/8.jpg
+      value: images/web2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Understanding Street Photography
+      value: Web 2.0
     - name: 'twitter:description'
       value: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt
     - name: 'twitter:image'
-      value: images/8.jpg
+      value: images/web2.jpg
       relativeUrl: true
 layout: post
 ---
