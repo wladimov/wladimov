@@ -38,5 +38,5 @@ Hi, I'm Wladimir Moya, a self-taught passionate FrontEnd developer from Ecuador 
 
 
 ## &nbsp;&nbsp;Some of my stats are:
-|<a href="https://github.com/wladimov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wladimov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/wladimov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladimov&layout=compact&theme=buefy&hide_border=true" /></a> |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=wladimov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladimov&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
