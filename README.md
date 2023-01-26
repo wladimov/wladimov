@@ -1,6 +1,6 @@
 # 👋🏻 &nbsp;&nbsp;Hi there, I am Wladimir Moya @wladimov
 
-<a href="https://wladimov.com"><img align="center" src="./wladimov.png" alt="Wladimir Moya's github profile banner - Software development engineer" /></a>
+<a target="_blank" href="https://wladimov.com"><img align="center" src="./wladimov.png" alt="Wladimir Moya's github profile banner - Software development engineer" /></a>
 
 <!-- <p>Hi, I'm Wladimir Moya, a self-taught passionate FrontEnd developer from Ecuador.I've been building stuff on the web since when 2018. I enjoy writing post in my blog about the things that I am learning.</p> -->
 <p>
@@ -33,8 +33,8 @@ Hi, I'm Wladimir Moya, a self-taught passionate FrontEnd developer from Ecuador 
 </p>
 
 ## &nbsp;&nbsp;Find me around the web:
-- Writing in my <a href="https://wladimov.com">Blog</a>
-- Know a little more about my work in <a href="https://www.linkedin.com/in/wladimov/">Linkedin</a>
+- Writing in my <a target="_blank" href="https://wladimov.com">Blog</a>
+- Know a little more about my work in <a target="_blank"href="https://www.linkedin.com/in/wladimov/">Linkedin</a>
 
 
 ## &nbsp;&nbsp;Some of my stats are:
