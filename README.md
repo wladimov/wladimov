@@ -33,7 +33,7 @@ Hi, I'm Wladimir Moya, a self-taught passionate FrontEnd developer from Ecuador 
 </p>
 
 ## &nbsp;&nbsp;Find me around the web:
-- Writing in my <a href="https://platzi.com/wladimov">Blog</a>
+- Writing in my <a href="https://wladimov.com">Blog</a>
 - Know a little more about my work in <a href="https://www.linkedin.com/in/wladimov/">Linkedin</a>
 
 
