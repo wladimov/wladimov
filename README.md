@@ -41,75 +41,73 @@ Hi, I'm Wladimir Moya, a self-taught passionate FrontEnd developer from Ecuador 
 |<a href="https://github.com/wladimov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wladimov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/wladimov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladimov&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<div align="center">
+<code>
+    <img
+        height="20"
+        alt="html5"
+        src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/html.svg"
+    >
+</code>
+<code>
+    <img
+        height="20"
+        alt="css"
+        src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/css.svg"
+    >
+</code>
+<code>
+    <img
+        height="20"
+        alt="javascript"
+        src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/javascript.svg"
+    >
+</code>
+<code>
+    <img
+        height="20"
+        alt="react"
+        src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/react.svg"
+    >
+</code>
+<code>
+    <img
+        height="20"
+        alt="astro"
+        src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/astro.svg"
+    >
+</code>
+<code>
+    <img
+        height="20"
+        alt="tailwindcss"
+        src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/tailwindcss.svg"
+    >
+</code>
+<code>
+    <img
+        height="20"
+        alt="sass"
+        src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/sass.svg"
+    >
+</code>
+<code>
+    <img
+        height="20"
+        alt="next"
+        src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/next.svg"
+    >
+</code>
     <code>
-        <img
-            height="20"
-            alt="html5"
-            src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/html.svg"
-        >
-    </code>
-    <code>
-        <img
-            height="20"
-            alt="css"
-            src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/css.svg"
-        >
-    </code>
-    <code>
-        <img
-            height="20"
-            alt="javascript"
-            src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/javascript.svg"
-        >
-    </code>
-    <code>
-        <img
-            height="20"
-            alt="react"
-            src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/react.svg"
-        >
-    </code>
-    <code>
-        <img
-            height="20"
-            alt="astro"
-            src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/astro.svg"
-        >
-    </code>
-    <code>
-        <img
-            height="20"
-            alt="tailwindcss"
-            src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/tailwindcss.svg"
-        >
-    </code>
-    <code>
-        <img
-            height="20"
-            alt="sass"
-            src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/sass.svg"
-        >
-    </code>
-    <code>
-        <img
-            height="20"
-            alt="next"
-            src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/next.svg"
-        >
-    </code>
-        <code>
-        <img
-            height="20"
-            alt="nodejs"
-            src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/nodejs_alt.svg"
-        >
-    </code>
-    <code>
-        <img
-            height="20"
-            alt="git"
-            src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/git.svg"
-        >
-    </code>
-</div>
+    <img
+        height="20"
+        alt="nodejs"
+        src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/nodejs_alt.svg"
+    >
+</code>
+<code>
+    <img
+        height="20"
+        alt="git"
+        src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/a92e1cc3b951cf05e42dfccc32ba72b5cd06e42d/icons/git.svg"
+    >
+</code>
