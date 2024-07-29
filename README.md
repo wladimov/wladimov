@@ -1,20 +1,4 @@
 # 👋🏻 &nbsp;&nbsp;Hi there, I am Wladimir Moya @wladimov
-
-```js
-class Person {
-  constructor () {
-    this.name = "Wladimir Moya";
-    this.trains = [
-      "Developer",
-      "Designer"
-    ];
-  }
-}
-```
-
-<!-- <a target="_blank" href="https://wladimov.com"><img align="center" src="./wladimov.png" alt="Wladimir Moya's github profile banner - Software development engineer" /></a> -->
-
-<!-- <p>Hi, I'm Wladimir Moya, a self-taught passionate FrontEnd developer from Ecuador.I've been building stuff on the web since when 2018. I enjoy writing post in my blog about the things that I am learning.</p> -->
 <p>
 Hi, I'm Wladimir Moya, a self-taught passionate FrontEnd developer from Ecuador 🇪🇨
 </p>
@@ -34,12 +18,6 @@ Hi, I'm Wladimir Moya, a self-taught passionate FrontEnd developer from Ecuador 
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />&nbsp;&nbsp;
-  <!-- <img src="https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white" alt="Stylus" />&nbsp;&nbsp; -->
-  <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp; -->
-  <!-- <img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=Vue&logoColor=61DAFB" alt="Vue" />&nbsp;&nbsp; -->
-  <!-- <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />&nbsp;&nbsp; -->
-  <!-- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />&nbsp;&nbsp; -->
-  <!-- <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -53,6 +31,6 @@ Hi, I'm Wladimir Moya, a self-taught passionate FrontEnd developer from Ecuador 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladimov&layout=compact&theme=buefy&hide_border=true" />
 
-<!-- |<img align="center" src="https://github-readme-stats.vercel.app/api?username=wladimov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladimov&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
- -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wladimov&theme=transparent" />
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wladimov&theme=arctic"/>
