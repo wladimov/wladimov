@@ -1,11 +1,11 @@
 # 👋🏻 &nbsp;&nbsp;Hi there, I am Wladimir Moya @wladimov
+
 <p>
 Hi, I'm Wladimir Moya, a self-taught passionate FrontEnd developer from Ecuador 🇪🇨
 </p>
 
 - 👀 I'm interested in web development
 - 💞️ I am looking to collaborate on frontend projects
-
 
 ## &nbsp;&nbsp;Some technologies I use:
 
@@ -26,9 +26,9 @@ Hi, I'm Wladimir Moya, a self-taught passionate FrontEnd developer from Ecuador 
 </p>
 
 ## &nbsp;&nbsp;Find me around the web:
+
 - Writing in my <a target="_blank" href="https://wladimov.com">Blog</a>
 - Know a little more about my work in <a target="_blank" href="https://www.linkedin.com/in/wladimov/">Linkedin</a>
-
 
 ## &nbsp;&nbsp;Some of my stats are:
 
@@ -36,4 +36,4 @@ Hi, I'm Wladimir Moya, a self-taught passionate FrontEnd developer from Ecuador 
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wladimov&theme=transparent" />
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wladimov&theme=arctic"/>
+![Activity Graph](https://raw.githubusercontent.com/wladimov/wladimov/output/activity-graph.svg)
